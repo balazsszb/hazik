@@ -1,0 +1,15 @@
+
+let json = {
+    termek: {
+        nev: "Laptop",
+        ar: 349990,
+        keszlet: true
+    }
+}
+
+let xml = `
+<termek>
+    <nev>Laptop</nev>
+    <ar>349990</ar>
+    <keszlet>true</keszlet>
+</termek>`
